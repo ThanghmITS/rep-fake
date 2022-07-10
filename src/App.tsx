@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import { Counter } from './Pages/features/counter/Counter';
-import './App.css';
 import { useTranslation } from 'react-i18next';
 
 function App() {
